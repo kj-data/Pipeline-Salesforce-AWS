@@ -1,0 +1,21 @@
+[project]
+name = "pipeline-salesforce-aws"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "faker>=40.43.0",
+    "numpy>=2.5.4",
+    "pandas>=3.1.0",
+    "python-dotenv>=1.2.4",
+    "requests>=2.34.2",
+    "simple-salesforce>=1.12.10",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.4.0",
+    "jupyter>=1.1.1",
+    "kagglehub>=1.0.3",
+]

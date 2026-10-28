@@ -1,0 +1,3 @@
+Name,Industry,BillingCountry,AnnualRevenue,NumberOfEmployees,error
+Bioholding,medical,Philipines,587340000.0,1356,"[{'statusCode': 'FIELD_INTEGRITY_EXCEPTION', 'message': 'Existe un problema con este país, aunque parece ser correcto. Seleccione un país/territorio en la lista de países válidos.: País de facturación', 'fields': ['BillingCountry']}]"
+Hottechi,technolgy,Korea,8170380000.0,16499,"[{'statusCode': 'FIELD_INTEGRITY_EXCEPTION', 'message': 'Existe un problema con este país, aunque parece ser correcto. Seleccione un país/territorio en la lista de países válidos.: País de facturación', 'fields': ['BillingCountry']}]"

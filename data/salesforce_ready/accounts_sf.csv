@@ -1,0 +1,86 @@
+Name,Industry,BillingCountry,AnnualRevenue,NumberOfEmployees
+Acme Corporation,technolgy,United States,1100040000.0,2822
+Betasoloin,medical,United States,251410000.0,495
+Betatech,medical,Kenya,647180000.0,1185
+Bioholding,medical,Philipines,587340000.0,1356
+Bioplex,medical,United States,326820000.0,1016
+Blackzim,retail,United States,497110000.0,1588
+Bluth Company,technolgy,United States,1242320000.0,3027
+Bubba Gump,software,United States,987390000.0,2253
+Cancity,retail,United States,718620000.0,2448
+Cheers,entertainment,United States,4269900000.0,6472
+Codehow,software,United States,2714900000.0,2641
+Condax,medical,United States,4540000.0,9
+Conecom,technolgy,United States,1520660000.0,1806
+Dalttechnology,software,United States,98790000.0,96
+dambase,marketing,United States,2173980000.0,2928
+Domzoom,entertainment,United States,217870000.0,551
+Doncon,technolgy,United States,587720000.0,1501
+Donquadtech,technolgy,United States,1712680000.0,3194
+Dontechi,software,United States,4618000000.0,10083
+Donware,marketing,United States,1197440000.0,2570
+Fasehatice,retail,United States,4968910000.0,7523
+Faxquote,telecommunications,United States,1825820000.0,5595
+Finhigh,finance,United States,1102430000.0,1759
+Finjob,employment,United States,2059900000.0,3644
+Funholding,finance,United States,2819500000.0,7227
+Ganjaflex,retail,Japan,5158710000.0,17479
+Gekko & Co,retail,United States,2520830000.0,3502
+Genco Pura Olive Oil Company,retail,Italy,894330000.0,1635
+Globex Corporation,technolgy,Norway,1223720000.0,2497
+Gogozoom,telecommunications,United States,86680000.0,187
+Golddex,finance,United States,52500000.0,165
+Goodsilron,marketing,United States,2952730000.0,5107
+Green-Plus,services,United States,692190000.0,1922
+Groovestreet,retail,United States,223800000.0,299
+Hatfan,services,United States,792460000.0,1299
+Hottechi,technolgy,Korea,8170380000.0,16499
+Initech,telecommunications,United States,6395050000.0,20275
+Inity,marketing,United States,2403580000.0,8801
+Isdom,medical,United States,3178240000.0,4540
+Iselectrics,technolgy,United States,527110000.0,1428
+J-Texon,retail,United States,1388670000.0,3583
+Kan-code,software,United States,11698030000.0,34288
+Kinnamplus,retail,United States,702720000.0,1831
+Konex,technolgy,United States,7708380000.0,13756
+Konmatfix,marketing,United States,375430000.0,1190
+Labdrill,medical,United States,2741370000.0,9226
+Lexiqvolax,medical,United States,1618890000.0,3889
+Massive Dynamic,entertainment,United States,665060000.0,1095
+Mathtouch,marketing,Jordan,3027460000.0,9516
+Nam-zim,services,Brazil,405590000.0,1179
+Newex,services,Germany,1012720000.0,3492
+Ontomedia,employment,United States,882120000.0,2769
+Opentech,finance,United States,355230000.0,853
+Plexzap,retail,United States,2437850000.0,4874
+Plusstrip,entertainment,United States,349810000.0,315
+Plussunin,retail,United States,1419980000.0,4018
+Rangreen,technolgy,Panama,2938670000.0,8775
+Rantouch,telecommunications,United States,1188420000.0,3015
+Ron-tech,medical,United States,3922420000.0,6837
+Rundofase,technolgy,United States,1008060000.0,1238
+Scotfind,software,United States,6354870000.0,16780
+Scottech,marketing,United States,45390000.0,100
+Silis,medical,United States,2818380000.0,6290
+Singletechno,retail,United States,2214940000.0,5374
+Sonron,telecommunications,United States,1699850000.0,5108
+Stanredtax,finance,United States,1698200000.0,3798
+Statholdings,employment,United States,291270000.0,586
+Streethex,retail,Belgium,1376800000.0,1165
+Sumace,retail,Romania,167890000.0,493
+Sunnamplex,marketing,Poland,894370000.0,1593
+The New York Inquirer,medical,United States,439210000.0,792
+Toughzap,retail,United States,332430000.0,799
+Treequote,telecommunications,United States,5266090000.0,8595
+Umbrella Corporation,finance,United States,2022140000.0,5113
+Vehement Capital Partners,finance,United States,646100000.0,883
+Warephase,services,United States,2041730000.0,5276
+Xx-holding,finance,United States,7537240000.0,20293
+Xx-zobam,entertainment,United States,3838390000.0,8274
+Y-corporation,employment,United States,2871350000.0,9561
+Yearin,retail,United States,2261050000.0,3851
+Zathunicon,retail,United States,71120000.0,144
+Zencorporation,technolgy,China,40790000.0,142
+Zoomit,entertainment,United States,324190000.0,978
+Zotware,software,United States,4478470000.0,13809
+Zumgoity,medical,United States,441080000.0,1210
