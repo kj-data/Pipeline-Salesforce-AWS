@@ -1,0 +1,1200 @@
+{
+  "metadata": {
+    "source": "salesforce/Account",
+    "ingested_at_utc": "2026-11-02T20:54:19+00:00",
+    "record_count": 85,
+    "run_id": "20261102T205419Z"
+  },
+  "data": [
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C3d4BAAR"
+      },
+      "Id": "001bm00003C3d4BAAR",
+      "Name": "Acme Corporation",
+      "Type": null,
+      "Industry": "technolgy",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C3d4CAAR"
+      },
+      "Id": "001bm00003C3d4CAAR",
+      "Name": "Betasoloin",
+      "Type": null,
+      "Industry": "medical",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C3d4DAAR"
+      },
+      "Id": "001bm00003C3d4DAAR",
+      "Name": "Betatech",
+      "Type": null,
+      "Industry": "medical",
+      "BillingCity": null,
+      "BillingCountry": "Kenya",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C3d4EAAR"
+      },
+      "Id": "001bm00003C3d4EAAR",
+      "Name": "Bioplex",
+      "Type": null,
+      "Industry": "medical",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C3d4FAAR"
+      },
+      "Id": "001bm00003C3d4FAAR",
+      "Name": "Blackzim",
+      "Type": null,
+      "Industry": "Retail",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C3d4GAAR"
+      },
+      "Id": "001bm00003C3d4GAAR",
+      "Name": "Bluth Company",
+      "Type": null,
+      "Industry": "technolgy",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C3d4HAAR"
+      },
+      "Id": "001bm00003C3d4HAAR",
+      "Name": "Bubba Gump",
+      "Type": null,
+      "Industry": "software",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C3d4IAAR"
+      },
+      "Id": "001bm00003C3d4IAAR",
+      "Name": "Cancity",
+      "Type": null,
+      "Industry": "Retail",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C3d4JAAR"
+      },
+      "Id": "001bm00003C3d4JAAR",
+      "Name": "Cheers",
+      "Type": null,
+      "Industry": "Entertainment",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C3d4KAAR"
+      },
+      "Id": "001bm00003C3d4KAAR",
+      "Name": "Codehow",
+      "Type": null,
+      "Industry": "software",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C3d4LAAR"
+      },
+      "Id": "001bm00003C3d4LAAR",
+      "Name": "Condax",
+      "Type": null,
+      "Industry": "medical",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C3d4MAAR"
+      },
+      "Id": "001bm00003C3d4MAAR",
+      "Name": "Conecom",
+      "Type": null,
+      "Industry": "technolgy",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C3d4NAAR"
+      },
+      "Id": "001bm00003C3d4NAAR",
+      "Name": "Dalttechnology",
+      "Type": null,
+      "Industry": "software",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C3d4OAAR"
+      },
+      "Id": "001bm00003C3d4OAAR",
+      "Name": "dambase",
+      "Type": null,
+      "Industry": "marketing",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfRAAV"
+      },
+      "Id": "001bm00003C6JfRAAV",
+      "Name": "Domzoom",
+      "Type": null,
+      "Industry": "Entertainment",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfSAAV"
+      },
+      "Id": "001bm00003C6JfSAAV",
+      "Name": "Doncon",
+      "Type": null,
+      "Industry": "technolgy",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfTAAV"
+      },
+      "Id": "001bm00003C6JfTAAV",
+      "Name": "Donquadtech",
+      "Type": null,
+      "Industry": "technolgy",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfUAAV"
+      },
+      "Id": "001bm00003C6JfUAAV",
+      "Name": "Dontechi",
+      "Type": null,
+      "Industry": "software",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfVAAV"
+      },
+      "Id": "001bm00003C6JfVAAV",
+      "Name": "Donware",
+      "Type": null,
+      "Industry": "marketing",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfWAAV"
+      },
+      "Id": "001bm00003C6JfWAAV",
+      "Name": "Fasehatice",
+      "Type": null,
+      "Industry": "Retail",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfXAAV"
+      },
+      "Id": "001bm00003C6JfXAAV",
+      "Name": "Faxquote",
+      "Type": null,
+      "Industry": "Telecommunications",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfYAAV"
+      },
+      "Id": "001bm00003C6JfYAAV",
+      "Name": "Finhigh",
+      "Type": null,
+      "Industry": "Finance",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfZAAV"
+      },
+      "Id": "001bm00003C6JfZAAV",
+      "Name": "Finjob",
+      "Type": null,
+      "Industry": "employment",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfaAAF"
+      },
+      "Id": "001bm00003C6JfaAAF",
+      "Name": "Funholding",
+      "Type": null,
+      "Industry": "Finance",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfbAAF"
+      },
+      "Id": "001bm00003C6JfbAAF",
+      "Name": "Ganjaflex",
+      "Type": null,
+      "Industry": "Retail",
+      "BillingCity": null,
+      "BillingCountry": "Japan",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfcAAF"
+      },
+      "Id": "001bm00003C6JfcAAF",
+      "Name": "Gekko & Co",
+      "Type": null,
+      "Industry": "Retail",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfdAAF"
+      },
+      "Id": "001bm00003C6JfdAAF",
+      "Name": "Genco Pura Olive Oil Company",
+      "Type": null,
+      "Industry": "Retail",
+      "BillingCity": null,
+      "BillingCountry": "Italy",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfeAAF"
+      },
+      "Id": "001bm00003C6JfeAAF",
+      "Name": "Globex Corporation",
+      "Type": null,
+      "Industry": "technolgy",
+      "BillingCity": null,
+      "BillingCountry": "Norway",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JffAAF"
+      },
+      "Id": "001bm00003C6JffAAF",
+      "Name": "Gogozoom",
+      "Type": null,
+      "Industry": "Telecommunications",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfgAAF"
+      },
+      "Id": "001bm00003C6JfgAAF",
+      "Name": "Golddex",
+      "Type": null,
+      "Industry": "Finance",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfhAAF"
+      },
+      "Id": "001bm00003C6JfhAAF",
+      "Name": "Goodsilron",
+      "Type": null,
+      "Industry": "marketing",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfiAAF"
+      },
+      "Id": "001bm00003C6JfiAAF",
+      "Name": "Green-Plus",
+      "Type": null,
+      "Industry": "services",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfjAAF"
+      },
+      "Id": "001bm00003C6JfjAAF",
+      "Name": "Groovestreet",
+      "Type": null,
+      "Industry": "Retail",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfkAAF"
+      },
+      "Id": "001bm00003C6JfkAAF",
+      "Name": "Hatfan",
+      "Type": null,
+      "Industry": "services",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JflAAF"
+      },
+      "Id": "001bm00003C6JflAAF",
+      "Name": "Initech",
+      "Type": null,
+      "Industry": "Telecommunications",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfmAAF"
+      },
+      "Id": "001bm00003C6JfmAAF",
+      "Name": "Inity",
+      "Type": null,
+      "Industry": "marketing",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfnAAF"
+      },
+      "Id": "001bm00003C6JfnAAF",
+      "Name": "Isdom",
+      "Type": null,
+      "Industry": "medical",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfoAAF"
+      },
+      "Id": "001bm00003C6JfoAAF",
+      "Name": "Iselectrics",
+      "Type": null,
+      "Industry": "technolgy",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfpAAF"
+      },
+      "Id": "001bm00003C6JfpAAF",
+      "Name": "J-Texon",
+      "Type": null,
+      "Industry": "Retail",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfqAAF"
+      },
+      "Id": "001bm00003C6JfqAAF",
+      "Name": "Kan-code",
+      "Type": null,
+      "Industry": "software",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfrAAF"
+      },
+      "Id": "001bm00003C6JfrAAF",
+      "Name": "Kinnamplus",
+      "Type": null,
+      "Industry": "Retail",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfsAAF"
+      },
+      "Id": "001bm00003C6JfsAAF",
+      "Name": "Konex",
+      "Type": null,
+      "Industry": "technolgy",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JftAAF"
+      },
+      "Id": "001bm00003C6JftAAF",
+      "Name": "Konmatfix",
+      "Type": null,
+      "Industry": "marketing",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfuAAF"
+      },
+      "Id": "001bm00003C6JfuAAF",
+      "Name": "Labdrill",
+      "Type": null,
+      "Industry": "medical",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfvAAF"
+      },
+      "Id": "001bm00003C6JfvAAF",
+      "Name": "Lexiqvolax",
+      "Type": null,
+      "Industry": "medical",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfwAAF"
+      },
+      "Id": "001bm00003C6JfwAAF",
+      "Name": "Massive Dynamic",
+      "Type": null,
+      "Industry": "Entertainment",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfxAAF"
+      },
+      "Id": "001bm00003C6JfxAAF",
+      "Name": "Mathtouch",
+      "Type": null,
+      "Industry": "marketing",
+      "BillingCity": null,
+      "BillingCountry": "Jordan",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfyAAF"
+      },
+      "Id": "001bm00003C6JfyAAF",
+      "Name": "Nam-zim",
+      "Type": null,
+      "Industry": "services",
+      "BillingCity": null,
+      "BillingCountry": "Brazil",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JfzAAF"
+      },
+      "Id": "001bm00003C6JfzAAF",
+      "Name": "Newex",
+      "Type": null,
+      "Industry": "services",
+      "BillingCity": null,
+      "BillingCountry": "Germany",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6Jg0AAF"
+      },
+      "Id": "001bm00003C6Jg0AAF",
+      "Name": "Ontomedia",
+      "Type": null,
+      "Industry": "employment",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6Jg1AAF"
+      },
+      "Id": "001bm00003C6Jg1AAF",
+      "Name": "Opentech",
+      "Type": null,
+      "Industry": "Finance",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6Jg2AAF"
+      },
+      "Id": "001bm00003C6Jg2AAF",
+      "Name": "Plexzap",
+      "Type": null,
+      "Industry": "Retail",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6Jg3AAF"
+      },
+      "Id": "001bm00003C6Jg3AAF",
+      "Name": "Plusstrip",
+      "Type": null,
+      "Industry": "Entertainment",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6Jg4AAF"
+      },
+      "Id": "001bm00003C6Jg4AAF",
+      "Name": "Plussunin",
+      "Type": null,
+      "Industry": "Retail",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6Jg5AAF"
+      },
+      "Id": "001bm00003C6Jg5AAF",
+      "Name": "Rangreen",
+      "Type": null,
+      "Industry": "technolgy",
+      "BillingCity": null,
+      "BillingCountry": "Panama",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6Jg6AAF"
+      },
+      "Id": "001bm00003C6Jg6AAF",
+      "Name": "Rantouch",
+      "Type": null,
+      "Industry": "Telecommunications",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6Jg7AAF"
+      },
+      "Id": "001bm00003C6Jg7AAF",
+      "Name": "Ron-tech",
+      "Type": null,
+      "Industry": "medical",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6Jg8AAF"
+      },
+      "Id": "001bm00003C6Jg8AAF",
+      "Name": "Rundofase",
+      "Type": null,
+      "Industry": "technolgy",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6Jg9AAF"
+      },
+      "Id": "001bm00003C6Jg9AAF",
+      "Name": "Scotfind",
+      "Type": null,
+      "Industry": "software",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JgAAAV"
+      },
+      "Id": "001bm00003C6JgAAAV",
+      "Name": "Scottech",
+      "Type": null,
+      "Industry": "marketing",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JgBAAV"
+      },
+      "Id": "001bm00003C6JgBAAV",
+      "Name": "Silis",
+      "Type": null,
+      "Industry": "medical",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JgCAAV"
+      },
+      "Id": "001bm00003C6JgCAAV",
+      "Name": "Singletechno",
+      "Type": null,
+      "Industry": "Retail",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JgDAAV"
+      },
+      "Id": "001bm00003C6JgDAAV",
+      "Name": "Sonron",
+      "Type": null,
+      "Industry": "Telecommunications",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JgEAAV"
+      },
+      "Id": "001bm00003C6JgEAAV",
+      "Name": "Stanredtax",
+      "Type": null,
+      "Industry": "Finance",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JgFAAV"
+      },
+      "Id": "001bm00003C6JgFAAV",
+      "Name": "Statholdings",
+      "Type": null,
+      "Industry": "employment",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JgGAAV"
+      },
+      "Id": "001bm00003C6JgGAAV",
+      "Name": "Streethex",
+      "Type": null,
+      "Industry": "Retail",
+      "BillingCity": null,
+      "BillingCountry": "Belgium",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JgHAAV"
+      },
+      "Id": "001bm00003C6JgHAAV",
+      "Name": "Sumace",
+      "Type": null,
+      "Industry": "Retail",
+      "BillingCity": null,
+      "BillingCountry": "Romania",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JgIAAV"
+      },
+      "Id": "001bm00003C6JgIAAV",
+      "Name": "Sunnamplex",
+      "Type": null,
+      "Industry": "marketing",
+      "BillingCity": null,
+      "BillingCountry": "Poland",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JgJAAV"
+      },
+      "Id": "001bm00003C6JgJAAV",
+      "Name": "The New York Inquirer",
+      "Type": null,
+      "Industry": "medical",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JgKAAV"
+      },
+      "Id": "001bm00003C6JgKAAV",
+      "Name": "Toughzap",
+      "Type": null,
+      "Industry": "Retail",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JgLAAV"
+      },
+      "Id": "001bm00003C6JgLAAV",
+      "Name": "Treequote",
+      "Type": null,
+      "Industry": "Telecommunications",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JgMAAV"
+      },
+      "Id": "001bm00003C6JgMAAV",
+      "Name": "Umbrella Corporation",
+      "Type": null,
+      "Industry": "Finance",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JgNAAV"
+      },
+      "Id": "001bm00003C6JgNAAV",
+      "Name": "Vehement Capital Partners",
+      "Type": null,
+      "Industry": "Finance",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JgOAAV"
+      },
+      "Id": "001bm00003C6JgOAAV",
+      "Name": "Warephase",
+      "Type": null,
+      "Industry": "services",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JgPAAV"
+      },
+      "Id": "001bm00003C6JgPAAV",
+      "Name": "Xx-holding",
+      "Type": null,
+      "Industry": "Finance",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JgQAAV"
+      },
+      "Id": "001bm00003C6JgQAAV",
+      "Name": "Xx-zobam",
+      "Type": null,
+      "Industry": "Entertainment",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JgRAAV"
+      },
+      "Id": "001bm00003C6JgRAAV",
+      "Name": "Y-corporation",
+      "Type": null,
+      "Industry": "employment",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JgSAAV"
+      },
+      "Id": "001bm00003C6JgSAAV",
+      "Name": "Yearin",
+      "Type": null,
+      "Industry": "Retail",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JgTAAV"
+      },
+      "Id": "001bm00003C6JgTAAV",
+      "Name": "Zathunicon",
+      "Type": null,
+      "Industry": "Retail",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JgUAAV"
+      },
+      "Id": "001bm00003C6JgUAAV",
+      "Name": "Zencorporation",
+      "Type": null,
+      "Industry": "technolgy",
+      "BillingCity": null,
+      "BillingCountry": "China",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JgVAAV"
+      },
+      "Id": "001bm00003C6JgVAAV",
+      "Name": "Zoomit",
+      "Type": null,
+      "Industry": "Entertainment",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JgWAAV"
+      },
+      "Id": "001bm00003C6JgWAAV",
+      "Name": "Zotware",
+      "Type": null,
+      "Industry": "software",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6JgXAAV"
+      },
+      "Id": "001bm00003C6JgXAAV",
+      "Name": "Zumgoity",
+      "Type": null,
+      "Industry": "medical",
+      "BillingCity": null,
+      "BillingCountry": "United States",
+      "CreatedDate": "2026-10-27T23:35:35.000+0000",
+      "SystemModstamp": "2026-10-27T23:35:35.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6j0PAAR"
+      },
+      "Id": "001bm00003C6j0PAAR",
+      "Name": "Bioholding",
+      "Type": null,
+      "Industry": "medical",
+      "BillingCity": null,
+      "BillingCountry": null,
+      "CreatedDate": "2026-10-28T00:06:55.000+0000",
+      "SystemModstamp": "2026-10-28T00:06:55.000+0000"
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v68.0/sobjects/Account/001bm00003C6j0QAAR"
+      },
+      "Id": "001bm00003C6j0QAAR",
+      "Name": "Hottechi",
+      "Type": null,
+      "Industry": "technolgy",
+      "BillingCity": null,
+      "BillingCountry": null,
+      "CreatedDate": "2026-10-28T00:06:55.000+0000",
+      "SystemModstamp": "2026-10-28T00:06:55.000+0000"
+    }
+  ]
+}
